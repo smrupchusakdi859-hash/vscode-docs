@@ -16,7 +16,7 @@
     "serve": "npm run generate-sidebar && docsify serve ."
   },
   "devDependencies": {
-    "docsify-cli": "^4.4.4",
+    "docsify-cli": "^5.0.0",
     "eslint-plugin-security": "^1.7.1",
     "gulp": "~5.0.0",
     "husky": "^7.0.0",
